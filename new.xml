@@ -1,5 +1,9 @@
+<?xml version="1.0"?>
 <info>
+      <NS>
 	<name>Andrei</name>
+	<surname>Martynchik</surname>
+      </NS>
 	<age>32</age>
 	<number_of_pets>0</number_of_pets>
 	<salary>1000000</salary>
